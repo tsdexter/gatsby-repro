@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-wp-page-js",
+    "path": "/test-page/",
+    "result": {"pageContext":{"data":{"id":"cG9zdDo5","databaseId":9,"title":"test page","content":"\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" width=\"64\" height=\"46\" src=\"https://defaultwptest.wpengine.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-13-at-8.38.17-PM-1.png\" alt=\"\" class=\"wp-image-10\"/></figure>\n","slug":"test-page","link":"/test-page/","uri":"/test-page/"}}},
+    "staticQueryHashes": []}

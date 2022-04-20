@@ -1,0 +1,30 @@
+{
+  "name": "georgian-gatsby-beta",
+  "version": "1.0.0",
+  "private": true,
+  "description": "georgian-gatsby-beta",
+  "author": "Thomas",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "gatsby-start": "gatsby develop",
+    "start": "gserve",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "wpe-build": "build"
+  },
+  "dependencies": {
+    "fastify": "^3.27.4",
+    "gatsby": "^4.10.0-next.3",
+    "gatsby-plugin-fastify": "^0.7.4",
+    "gatsby-plugin-image": "^2.10.0-next.3",
+    "gatsby-plugin-sharp": "^4.10.0-next.3",
+    "gatsby-source-wordpress": "^6.9.1",
+    "gatsby-transformer-sharp": "^4.10.0-next.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

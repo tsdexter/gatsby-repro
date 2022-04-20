@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/node-ssg",
+    "result": {"pageContext":{"pagePath":"/node-ssg","title":"Node SSG"}},
+    "staticQueryHashes": []}
